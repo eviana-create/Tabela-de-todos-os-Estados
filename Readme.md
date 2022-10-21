@@ -1,9 +1,9 @@
-#Tabela de Todos os Estados
+# Tabela de Todos os Estados
 
-##Introdução a framework
+## Introdução a framework
 
-*datatables
-*bootstrap
+* datatables
+* bootstrap
 
-######javascript
-######CSS
+###### javascript
+###### CSS
